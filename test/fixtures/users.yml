@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  surname: MyString
+  about: MyString
+  sport: MyString
+  town: MyString
+  dob: 2016-09-14
+
+two:
+  name: MyString
+  surname: MyString
+  about: MyString
+  sport: MyString
+  town: MyString
+  dob: 2016-09-14
